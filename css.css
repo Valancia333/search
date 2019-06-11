@@ -26,7 +26,10 @@ li a{
 }
 
 .float-right {
-    float: right;
-    line-height: 30px;
-    letter-spacing: 4px;
-}
+        float: right;
+        line-height: 100px;
+        letter-spacing: 4px;
+        margin-right: 40px;
+        font-size: 20px;
+        font-family: arial;
+    }
