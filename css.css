@@ -1,8 +1,5 @@
-#logo {
-width: 300px;
-height: 300px;
-align: center; 
-}
-p {
-    color: red;
+.logo {
+    text-align: center;
+    height: 300px;
+    width: 300px; 
 }
