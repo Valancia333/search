@@ -33,6 +33,11 @@ li a{
         font-size: 20px;
         font-family: arial;
     }
-.paragraphs {
+.float-left {
     width: 45%;
+    float: left;
+}
+.float-right {
+    width: 45%;
+    float: right;
 }
