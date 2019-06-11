@@ -27,4 +27,6 @@ li a{
 
 .float-right {
     float: right;
+    line-height: 30px;
+    letter-spacing: 4px;
 }
